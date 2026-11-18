@@ -1,0 +1,8 @@
+[server]
+fileWatcherType = "none"
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+base = "light"
