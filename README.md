@@ -1,8 +1,8 @@
-Multimodal Stateful Hybrid RAG System
+# 🎯 Multimodal Stateful Hybrid RAG System
 
 A Multimodal Stateful Hybrid Retrieval-Augmented Generation (RAG) System that combines hybrid search, knowledge graphs, cross-lingual information retrieval, and conversational memory to provide context-aware answers from uploaded documents.
 
-Overview
+#Overview
 
 This project implements a Streamlit-based application that allows users to upload documents in multiple formats and ask questions about their content.
 
@@ -10,7 +10,7 @@ It combines keyword-based retrieval and semantic vector search to improve inform
 
 The system supports queries and responses in English, Tamil, and Hindi. Google Gemini is used as the language model for response generation.
 
-Key Features
+#Key Features
 
 Multimodal Document Ingestion: Supports PDF, DOCX, images, and audio files.
 
@@ -32,7 +32,7 @@ Stateful Conversation: Uses LangGraph to maintain context across multiple conver
 
 Interactive Interface: Provides a Streamlit web interface for document upload and question answering.
 
-System Workflow
+#System Workflow
 
 Upload PDF, DOCX, image, or audio files.
 
